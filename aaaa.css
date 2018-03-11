@@ -1,21 +1,21 @@
 /* Window Menu Bar */
 
 .appMount-14L89u {
-    background-color: #000000;
+    background-color: #010101;
 }
 
 /* Chat Text Bar */
 .theme-dark .chat>.content {
-    background-color: #3e313c;
+    background-color: #010101;
 }
 
 .theme-dark .inner-3if5cm {
-    background-color: #000000;
+    background-color: #010101;
     border: 1px solid rgba(0, 0, 0, 0);
 }
 
 .theme-dark .autocomplete-1TnWNR {
-    background-color: #000000;
+    background-color: #010101;
     border: 1px solid rgba(0, 0, 0, 0);
 }
 
@@ -24,7 +24,7 @@
 }
 
 .theme-dark .selectorSelected-2M0IGv {
-    background-color: #000000;
+    background-color: #010101;
 }
 
 .theme-dark .description-YnaVYa, .theme-dark .descriptionUsername-1quCGz {
@@ -50,15 +50,15 @@
 }
 
 .theme-dark #friends {
-	background-color: #000000;
+	background-color: #010101;
 }
 
 .theme-dark #friends .tab-bar .tab-bar-item.tab-bar-item-primary {
-	background-color: #000000;
+	background-color: #010101;
 }
 
 .theme-dark #friends .tab-bar .tab-bar-item.tab-bar-item-primary:hover:not(.selected) {
-	background-color: #000000;
+	background-color: #010101;
 }
 
 /* Main Chat Area */
@@ -100,7 +100,7 @@
 .theme-dark .friends-table .messages .divider span,
 .theme-dark .messages-wrapper .messages .divider:before,
 .theme-dark .messages-wrapper .messages .divider span {
-    background-color: #000000
+    background-color: #010101
 }
 
 .theme-dark .friends-table .messages .divider:not(.red) span,
@@ -123,11 +123,11 @@
 }
 
 .chat .new-messages-bar {
-    background-color: #000000;
+    background-color: #010101;
 }
 
 .chat .new-messages-bar:hover {
-    background-color: #000000;
+    background-color: #010101;
 }
 
 .theme-dark .chat .has-more button {
@@ -184,7 +184,7 @@
 
 /* Channel Bar */
 .channels-wrap{
-	background-color: #000000;
+	background-color: #010101;
 }
 
 .nameDefault-Lnjrwm {
@@ -869,7 +869,7 @@
 }
 
 .theme-dark .input-MwQhcX {
-    background-color: #000000;
+    background-color: #010101;
 }
 
 /* Searchbar */
@@ -911,7 +911,7 @@
 }
 
 .theme-dark.context-menu .checkbox .checkbox-inner input[type=checkbox]:checked+span {
-    background-color: #000000;
+    background-color: #010101;
     border-color: #5f485c;
 }
 
@@ -1010,7 +1010,7 @@
 
 /* Misc */
 .container-2oOGIt {
-    background-color: #000000;
+    background-color: #010101;
 }
 
 .base-3AoPqv {
@@ -1018,7 +1018,7 @@
 }
 
 .theme-dark .layer, .theme-dark .layers {
-	background-color: #000000;
+	background-color: #010101;
 }
 
 .barFill-18ABna,
@@ -1035,7 +1035,7 @@
 }
 
 .checkbox .checkbox-inner input[type=checkbox]:checked+span {
-    background-color: #000000;
+    background-color: #010101;
     border-color: #61485e;
 }
 
@@ -1048,17 +1048,17 @@
 }
 
 .theme-dark .radio .radio-inner {
-    background-color: #000000;
+    background-color: #010101;
     border-color: #332f33;
 }
 
 .create-guild-container.deprecated .action:hover.create .btn {
-    background-color: #000000;
+    background-color: #010101;
 }
 
 /* Full Size User Popout */
 .body-3rkFrF {
-    background-color: #000000;
+    background-color: #010101;
     border-bottom: 1px solid #4d394b;
 }
 
@@ -1076,11 +1076,11 @@
 }
 
 .topSectionNormal-2LlRG1 {
-    background-color: #000000;
+    background-color: #010101;
 }
 
 .theme-dark .body-3_tdh6 {
-    background-color: #000000;
+    background-color: #010101;
 }
 
 .backdrop-2ohBEd {
@@ -1130,21 +1130,21 @@
 }
 
 .theme-dark .friends-table .scroller-wrap.polyfill .scrollbar, .theme-dark .friends-table .scroller-wrap.polyfill .scrollbar::after, .theme-dark .messages-wrapper .scroller-wrap.polyfill .scrollbar, .theme-dark .messages-wrapper .scroller-wrap.polyfill .scrollbar::after {
-    background-color: #000000;
+    background-color: #010101;
 }
 
 .theme-dark .friends-table .scroller-wrap.polyfill .scrollbar .track, .theme-dark .messages-wrapper .scroller-wrap.polyfill .scrollbar .track {
-    background-color: #000000;
+    background-color: #010101;
     border-color: #3e313c;
 }
 
 .theme-dark .friends-table .scroller-wrap.polyfill .scrollbar .thumb, .theme-dark .messages-wrapper .scroller-wrap.polyfill .scrollbar .thumb {
-    background-color: #000000;
+    background-color: #010101;
     border-color: #3e313c;
 }
 
 .theme-dark .friends-table .scroller-wrap.polyfill .scrollbar .thumb::after, .theme-dark .messages-wrapper .scroller-wrap.polyfill .scrollbar .thumb::after {
-    background-color: #000000;
+    background-color: #010101;
 }
 
 /* BetterDiscord fixes */
