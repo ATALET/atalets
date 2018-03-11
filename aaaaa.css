@@ -72,7 +72,7 @@
 
 .theme-dark .friends-table,
 .theme-dark .messages-wrapper {
-    background-color: #3e313c;
+    background-color: #010101;
 }
 
 .theme-dark .chat form {
@@ -329,7 +329,7 @@
 }
 
 .guilds-wrapper .guilds .guild .guild-inner a {
-    color: #000;
+    color: #111;
 }
 
 /* Userlist */
@@ -1089,7 +1089,7 @@
 
 .theme-dark .connectedAccount-3mKaTA,
 .theme-dark .userInfoSection-2WJxMm+.userInfoSection-2WJxMm {
-    border-color: #000000;
+    border-color: #111000;
 }
 
 /* notices */
