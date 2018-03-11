@@ -81,7 +81,7 @@
 
 .theme-dark .typing-3eiiL_,
 .theme-dark .chat form .typing {
-    background-color: #3e313c;
+    background-color: #ffffff;
 }
 
 .theme-dark .message-group .mentioned .message-text {
@@ -144,7 +144,7 @@
 }
 
 .theme-dark .message-group .embed-wrapper .embed-color-pill {
-    background-color: #ad93aa;
+    background-color: #010101;
 }
 
 .theme-dark .friends-table .messages .message-group-blocked,
@@ -166,12 +166,12 @@
 
 .theme-dark .friends-table .messages .message-group-blocked.revealed,
 .theme-dark .messages-wrapper .messages .message-group-blocked.revealed {
-    border-color: #000000;
-    background: rgba(0, 0, 0, 0.1);
+    border-color: #010101;
+    background: rgba(1, 1, 1, 1);
 }
 
 .theme-dark .chat .jump-to-present-bar {
-    background-color: rgba(76, 56, 74, 0.7);
+    background-color: rgba(1, 1, 1, 0.7);
 }
 
 .theme-dark .chat .jump-to-present-bar:hover {
@@ -228,17 +228,17 @@
 
 /* Private Channels Bar */
 .private-channels {
-    background-color: #4d394b;
+    background-color: #010101;
     border-bottom: 2px solid #453344;
 }
 
 .private-channels .channel.selected a {
     color: hsla(0,0%,100%,.7);
-    background-color: #3e313c;
+    background-color: #010101;
 }
 
 .private-channels .channel:hover a {
-	background-color: #443442;
+	background-color: #010101;
 }
 
 .private-channels .channel .channel-name {
@@ -264,7 +264,7 @@
 }
 
 .private-channel-recipients-invite .body .scroller {
-    background-color: #3e313c;
+    background-color: #010101;
 }
 
 .private-channel-recipients-invite .footer button {
