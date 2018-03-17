@@ -175,7 +175,7 @@
 }
 
 .theme-dark .chat .jump-to-present-bar:hover {
-    background-color: #4c384a;
+    background-color: #010101;
 }
 
 .botTagRegular-288-ZL {
@@ -197,13 +197,13 @@
 }
 
 .contentSelectedText-3j5CXt {
-    background-color: #3e313c;
+    background-color: #010101;
 }
 
 .contentHoveredText-2HYGIY,
 .contentHoveredVoice-3qGNKh:active,
 .contentSelectedVoice-gTtYM9:active {
-    background-color: #443442;
+    background-color: #010101;
 }
 
 .nameDefaultText-QoumjC,
@@ -219,7 +219,7 @@
 }
 
 .userHovered-3tfm93:active {
-    background-color: #443442;
+    background-color: #010101;
 }
 
 .nameDefault-1I0lx8 {
@@ -229,7 +229,7 @@
 /* Private Channels Bar */
 .private-channels {
     background-color: #010101;
-    border-bottom: 2px solid #453344;
+    border-bottom: 2px solid #010101;
 }
 
 .private-channels .channel.selected a {
@@ -259,8 +259,8 @@
 }
 
 .theme-dark .private-channel-recipients-invite .friend.selected, .theme-dark .private-channel-recipients-invite .friend:hover {
-    background: -webkit-gradient(linear,left top,right top,color-stop(85%,#3e313c),to(#010101));
-    background: linear-gradient(90deg,#3e313c 85%,#010101);
+    background: -webkit-gradient(linear,left top,right top,color-stop(85%,#010101),to(#010101));
+    background: linear-gradient(90deg,#010101 85%,#010101);
 }
 
 .private-channel-recipients-invite .body .scroller {
@@ -293,11 +293,11 @@
 
 /* Voice Call */
 .theme-dark .private-channel-call {
-    background-color: #3e313c;
+    background-color: #010101;
 }
 
 .theme-dark .ui-video {
-    background-color: #3e313c;
+    background-color: #010101;
 }
 
 .theme-dark .private-channel-call.minimum .private-channel-call-actions .center {
@@ -307,7 +307,7 @@
 
 /* Guilds Sidebar */
 .guilds-wrapper {
-    background-color: #3e313c;
+    background-color: #010101;
 }
 
 .guilds-wrapper .guilds .friends-online {
@@ -319,13 +319,13 @@
 }
 
 .guilds-wrapper .guilds-add {
-    background: #61485e;
+    background: #010101;
     color: #b1acb1;
     border: 1px dashed #b1acb1;
 }
 
 .guilds-wrapper .guilds .guild .guild-inner {
-    background: #ad93aa !important;
+    background: #010101 !important;
 }
 
 .guilds-wrapper .guilds .guild .guild-inner a {
@@ -334,21 +334,21 @@
 
 /* Userlist */
 .theme-dark .channel-members {
-    background-color: #3e313c;
+    background-color: #010101;
     border-left: 1px solid #010101;
 }
 
 .theme-dark .channel-members .member.popout-open,
 .theme-dark .channel-members .member:hover {
-    background: linear-gradient(to right, #443442 85%, #3e313c)
+    background: linear-gradient(to right, #010101 85%, #3e313c)
 }
 
 .theme-dark .channel-members-loading {
-	background-color: #3e313c;
+	background-color: #010101;
 }
 /* Friends Area */
 .theme-dark #friends .friends-table .friend-table-add-wrapper .friend-table-add-header {
-	background: #3e313c;
+	background: #010101;
     border-bottom: 1px solid #010101;
 }
 
