@@ -268,15 +268,15 @@
 }
 
 .private-channel-recipients-invite .footer button {
-    background-color: #3e313c;
+    background-color: #010101;
 }
 
 .private-channel-recipients-invite .footer button:hover {
-    background-color: #3a2f38;
+    background-color: #010101;
 }
 
 .private-channel-recipients-invite .footer button:disabled:hover {
-    background-color: #382c36;
+    background-color: #010101;
 }
 
 
@@ -431,7 +431,7 @@
 }
 
 .theme-dark .search-results-wrap .action-buttons .jump-button {
-    background-color: #ad93aa;
+    background-color: #010101;
     color: hsla(0,0%,100%,.6);
 }
 
@@ -711,7 +711,7 @@
 }
 
 .theme-dark .messages-popout-wrap .messages-popout .message-group .action-buttons .jump-button {
-    background-color: #ad93aa;
+    background-color: #010101;
 }
 
 .theme-dark .themed-popout .header .subtitle, .theme-dark .themed-popout .text {
